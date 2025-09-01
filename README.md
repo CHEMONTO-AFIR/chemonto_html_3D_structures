@@ -10,4 +10,4 @@ job3_chmonto_index.html contains structures of AFIR_CHEMONTO
 
 The  reference of the article is
 
-10.26434/chemrxiv-2025-xrx3t 
+https://chemrxiv.org/engage/chemrxiv/article-details/68afab91728bf9025eb7534d
