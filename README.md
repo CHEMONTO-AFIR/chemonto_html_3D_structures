@@ -15,3 +15,16 @@ job3_chmonto_index.html contains structures of AFIR_CHEMONTO
 The  reference of the article is
 
 https://chemrxiv.org/engage/chemrxiv/article-details/68afab91728bf9025eb7534d
+
+## 📜 License
+
+All 3D structure files in this repository are released under the  
+**Creative Commons Attribution 4.0 International (CC BY 4.0) License**.  
+
+You are free to:  
+- Share — copy and redistribute the material in any medium or format  
+- Adapt — remix, transform, and build upon the material for any purpose, even commercially  
+
+As long as you give **appropriate credit**.  
+
+👉 [Read the full license](LICENSE) 
