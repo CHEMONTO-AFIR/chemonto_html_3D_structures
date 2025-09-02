@@ -1,3 +1,8 @@
+The CHEMONTO refers to an explicit chemical ontology-based method developed to speed up reaction path searches, 
+as detailed in a publication on ChemRxiv. This method uses a structured knowledge base of chemical information to provide a more efficient and reusable approach to exploring how chemical reactions can occur, 
+aiding researchers in various fields of chemistry, particularly theoretical and computational chemistry
+
+
 # chemonto_html_3D_structures
 
 job1_default_index.html contains structures of AFIR_DEFAULT
