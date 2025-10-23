@@ -15,10 +15,6 @@ job2_targets_index.html contains structures of AFIR_TARGETS
 
 job3_chmonto_index.html contains structures of AFIR_ChemOntology
 
-[View job3_chmonto_index.html](https://rawcdn.githack.com/ChemOntology-AFIR/chemonto_html_3D_structures/main/job3_chmonto_index.html)
-
-[View job3_chmonto_index.html](https://raw.githubusercontent.com/ChemOntology-AFIR/chemonto_html_3D_structures/main/job3_chmonto_index.html)
-
 [View job3_chmonto_index.html](https://rawcdn.githack.com/ChemOntology-AFIR/chemonto_html_3D_structures/main/job3_chmonto_index.html?v=2)
 
 
