@@ -17,6 +17,7 @@ job3_chmonto_index.html contains structures of AFIR_ChemOntology
 
 [View job3_chmonto_index.html](https://rawcdn.githack.com/ChemOntology-AFIR/chemonto_html_3D_structures/main/job3_chmonto_index.html?v=5)
 
+[View job3_chmonto_index.html](https://ChemOntology-AFIR.github.io/chemonto_html_3D_structures/job3_chmonto_index.html)
 
 The  reference of the article is
 
