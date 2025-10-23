@@ -4,19 +4,7 @@ aiding researchers in various fields of chemistry, particularly theoretical and 
 
 
 # chemonto_html_3D_structures
-
-job1_default_index.html contains structures of AFIR_DEFAULT
-
-[View job1_default_index.html](https://rawcdn.githack.com/ChemOntology-AFIR/chemonto_html_3D_structures/main/job1_default_index.html)
-
-job2_targets_index.html contains structures of AFIR_TARGETS
-
-[View job2_targets_index.htm](https://rawcdn.githack.com/ChemOntology-AFIR/chemonto_html_3D_structures/main/job2_targets_index.html)
-
-job3_chmonto_index.html contains structures of AFIR_ChemOntology
-
-[View job3_chmonto_index.html](https://rawcdn.githack.com/ChemOntology-AFIR/chemonto_html_3D_structures/main/job3_chmonto_index.html??min=1)
-
+The URL links for data for AFIR_DEFAULT, AFIR_TARGETS, and AFIR_ChemOntology are provided below: 
 
 - [View job1_chmonto_index.html](https://rawcdn.githack.com/ChemOntology-AFIR/chemonto_html_3D_structures/main/job1_default_index.html)
 - [View job2_chmonto_index.html](https://rawcdn.githack.com/ChemOntology-AFIR/chemonto_html_3D_structures/main/job2_targets_index.html)
