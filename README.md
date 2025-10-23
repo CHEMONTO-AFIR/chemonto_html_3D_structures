@@ -18,6 +18,10 @@ job3_chmonto_index.html contains structures of AFIR_ChemOntology
 [View job3_chmonto_index.html](https://rawcdn.githack.com/ChemOntology-AFIR/chemonto_html_3D_structures/main/job3_chmonto_index.html??min=1)
 
 
+- [View job1_chmonto_index.html](https://ChemOntology-AFIR.github.io/chemonto_html_3D_structures/job1_chmonto_index.html)
+- [View job2_chmonto_index.html](https://ChemOntology-AFIR.github.io/chemonto_html_3D_structures/job2_chmonto_index.html)
+- [View job3_chmonto_index.html](https://ChemOntology-AFIR.github.io/chemonto_html_3D_structures/job3_chmonto_index.html)
+
 The  reference of the article is
 
 https://chemrxiv.org/engage/chemrxiv/article-details/68afab91728bf9025eb7534d
